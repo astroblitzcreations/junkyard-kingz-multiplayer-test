@@ -15,10 +15,10 @@ and modes.
 
 ## Play
 
-1. Download the full **287 MB** game from the release page:
-   **[Download JunkyardKingz.exe](https://github.com/astroblitzcreations/junkyard-kingz-multiplayer-test/releases/download/multiplayer-test-2026-10-18/JunkyardKingz.exe)**
-2. Keep the file anywhere on your Windows computer.
-3. Double-click it to start the game.
+1. Download the **201 MB Windows ZIP** from the release page:
+   **[Download JunkyardKingz-Windows.zip](https://github.com/astroblitzcreations/junkyard-kingz-multiplayer-test/releases/download/multiplayer-test-2026-10-18/JunkyardKingz-Windows.zip)**
+2. Right-click the ZIP and choose **Extract All**.
+3. Open the extracted folder and double-click `JunkyardKingz.exe`.
 4. If Windows SmartScreen appears, choose **More info**, then **Run anyway**.
 
 The game data is embedded in the executable, so no separate `.pck` file is
