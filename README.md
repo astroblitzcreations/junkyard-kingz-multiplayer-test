@@ -31,7 +31,7 @@ Discord. Friends with the game installed can click it to launch the game and
 join the lobby automatically; the page also links to this download when the
 game is not installed.
 
-**SHA-256:** `182C0375F2EB52DF65E49BB6C5DC4E0A27D2FC3F62C44A99915880411858F2A6`
+**SHA-256:** `580D02B75859CD9960C19A60465637BB9F75786B261FB107788CF38EC7D46B26`
 
 > **Do not use Code → Download ZIP.** GitHub repository ZIP files do not include
 > the real Git LFS executable and may contain only a tiny pointer file. Use the
